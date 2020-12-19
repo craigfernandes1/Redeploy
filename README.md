@@ -9,3 +9,4 @@ We were featured on several news articles, including: https://www.utoronto.ca/ne
 
 A screenshot of what the webapp looks like is as follows:
 
+![picture](Redeploy_Snapshot.png)
