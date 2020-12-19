@@ -5,7 +5,7 @@ Tools used: Python, OR-Tools, Dash, AWS
 
 The full repo is private and shared between the co-founders. I have linked the website that includes a demo of the web-app we developed that: https://redeploy.ca/demo/
 
-We were featured on several news articles, including: https://www.utoronto.ca/news/u-t-engineering-team-develops-tool-help-hospitals-redeploy-staff-amid-covid-19-pandemic
+We collaborated with senior leadership at 20+ hospitals globally and were featured on several news articles, including: https://www.utoronto.ca/news/u-t-engineering-team-develops-tool-help-hospitals-redeploy-staff-amid-covid-19-pandemic
 
 A screenshot of what the webapp looks like is as follows:
 
